@@ -1,0 +1,3 @@
+D:/cpp/LK 3 sem/LK1/LK1/Build/CMakeFiles/LK1.dir
+D:/cpp/LK 3 sem/LK1/LK1/Build/CMakeFiles/ALL_BUILD.dir
+D:/cpp/LK 3 sem/LK1/LK1/Build/CMakeFiles/ZERO_CHECK.dir
