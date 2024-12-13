@@ -1,1 +1,0 @@
-add_library(LK1 LK1.cpp)

@@ -1,4 +1,0 @@
-﻿  LK7.cpp
-d:\cpp\lk 3 sem\lk7\lk7\lk7.cpp(12): error C2039: max: не является членом "std"
-  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\iostream(14): note:  см. объявление "std"
-d:\cpp\lk 3 sem\lk7\lk7\lk7.cpp(12): error C3861: max: идентификатор не найден
